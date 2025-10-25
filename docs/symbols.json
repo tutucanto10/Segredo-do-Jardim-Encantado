@@ -1,0 +1,18 @@
+{
+  "scripts": [
+    "gml_GlobalScript",
+    "gml_Object_",
+    "gml_Script",
+    "gml_Script_",
+    "gml_release_mode"
+  ],
+  "objects": [
+    "obj_col_numb"
+  ],
+  "sprites": [],
+  "rooms": [],
+  "fonts": [],
+  "shaders": [],
+  "sounds": [],
+  "timelines": []
+}

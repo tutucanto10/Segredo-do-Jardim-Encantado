@@ -1,0 +1,30 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.lock
+.env
+.venv/
+
+# GameMaker Studio (generic)
+*.yyc
+*.yyp~
+*.yyp.backup
+*.local
+*.yyz
+
+# Build artifacts
+/build/
+/dist/
+/output/
+/bin/*.pdb
+/bin/*.dll
+
+# IDEs
+.vscode/
+.idea/
+*.iml
