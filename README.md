@@ -29,28 +29,6 @@ extraídos do executável e **stubs** `.gml` vazios para você preencher.
    - Substitua os stubs deste repositório por sua reescrita do código GML.
    - Recrie o projeto no GameMaker e aponte para os arquivos corretos.
 
-## Estrutura sugerida (neste repo)
-```
-src/
-  assets/        # espaço para sprites/sounds/fonts exportados, se conseguir extraí-los
-  objects/       # crie .gml/.yy dos objetos quando reescrever
-  rooms/         # idem para salas
-  scripts/       # stubs criados a partir de nomes extraídos
-bin/
-  jardim_encantado.exe
-docs/
-  symbols.json   # nomes detectados no binário
-```
-
-## Como publicar no GitHub
-```bash
-git init
-git add .
-git commit -m "chore: add skeleton from EXE + stubs"
-git branch -M main
-git remote add origin <SEU_REPO_URL>
-git push -u origin main
-```
 
 ---
 
